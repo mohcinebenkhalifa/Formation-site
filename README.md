@@ -1,1 +1,2 @@
 # bootstrap-website-formation
+Notre plateforme de formation en ligne vous offre une expérience d’apprentissage flexible et interactive, adaptée à tous les niveaux. Que vous soyez débutant ou professionnel, nos cours conçus par des experts du domaine vous guideront pas à pas pour acquérir des compétences pratiques et immédiatement applicables. Grâce à un contenu varié, incluant des vidéos, des exercices et des projets réels, vous pourrez progresser à votre rythme et bénéficier d’un accompagnement personnalisé tout au long de votre parcours.
